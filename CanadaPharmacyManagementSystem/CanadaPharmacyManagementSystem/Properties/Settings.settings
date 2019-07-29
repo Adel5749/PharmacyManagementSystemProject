@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CanadaPharmacyManagementSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\SQL_Canada2017</Value>
+    </Setting>
+    <Setting Name="dataBaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CanadaPharmacyManagement</Value>
+    </Setting>
+    <Setting Name="Mode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SQL</Value>
+    </Setting>
+    <Setting Name="ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="psw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5562404</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
